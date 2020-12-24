@@ -117,7 +117,7 @@ h2 {
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 0.2fr 0.5fr 1fr;
   grid-template-areas: "one one" "two two" "three four" "five five";
-  padding-top: 300px;
+  padding-top: 150px;
   text-align: center;
   width: 60%;
   margin: 0 auto;
